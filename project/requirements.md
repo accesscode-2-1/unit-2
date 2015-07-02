@@ -62,3 +62,5 @@ complete by this date at the latest.
 #### Submissions
 
 Team Names - github.com/repository
+
+Rosmary, Jae, Charlyn - https://github.com/jaellysbales/now-feed
