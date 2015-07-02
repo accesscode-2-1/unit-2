@@ -64,3 +64,4 @@ complete by this date at the latest.
 Team Names - github.com/repository
 
 MAE (Madelyn, Alvin, Elvis) - https://github.com/ahhhlvin/googlecards 
+NY Now (Vanice, Sarah, Anthony M.) - https://github.com/hyunj0/NYNow
