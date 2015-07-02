@@ -67,3 +67,4 @@ MAE (Madelyn, Alvin, Elvis) - https://github.com/ahhhlvin/googlecards
 NY Now (Vanice, Sarah, Anthony M.) - https://github.com/hyunj0/NYNow
 Team SYD (Sufei, Yuliya, Dison) - https://github.com/sufeiiz/UpdateMe
 Team Day Builder (Luke, Pooja) - [C4Q NOW](https://github.com/lukesterlee/DayBuilder)
+Rosmary, Jae, Charlyn - https://github.com/jaellysbales/now-feed
