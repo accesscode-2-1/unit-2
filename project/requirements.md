@@ -62,14 +62,23 @@ complete by this date at the latest.
 #### Submissions
 
 MAE (Madelyn, Alvin, Elvis) - https://github.com/ahhhlvin/googlecards 
+
 NY Now (Vanice, Sarah, Anthony M.) - https://github.com/hyunj0/NYNow
+
 Team SYD (Sufei, Yuliya, Dison) - https://github.com/sufeiiz/UpdateMe
+
 Team Day Builder (Luke, Pooja) - [C4Q NOW](https://github.com/lukesterlee/DayBuilder)
+
 Rosmary, Jae, Charlyn - https://github.com/jaellysbales/now-feed
+
 Jose Garcia, George Syrimis, Marbella Vidals - https://github.com/jgarcia162/Final-Project
+
 Hans, John - https://github.com/lighterletter/SkyLeap
-<<<<<<< HEAD
+
 Team Names Happy Juggles (Hoshiko, Janneisy, Joshelyn) - https://github.com/hoshikoo/Happy_Juggles
+
 Abass, Ray, Tasha - https://github.com/rayacevedo45/ART
+
 Feedsters (Jorge, Allison, Anna) - https://github.com/jorgereina1986/Feedster
+
 Freeminder (Anthony F, Ramona, Kadeem) - https://github.com/ramonaharrison/dream-team-now
