@@ -61,9 +61,6 @@ complete by this date at the latest.
 
 #### Submissions
 
-<<<<<<< HEAD
-Team Names - github.com/repository
-
 MAE (Madelyn, Alvin, Elvis) - https://github.com/ahhhlvin/googlecards 
 NY Now (Vanice, Sarah, Anthony M.) - https://github.com/hyunj0/NYNow
 Team SYD (Sufei, Yuliya, Dison) - https://github.com/sufeiiz/UpdateMe
@@ -73,3 +70,4 @@ Jose Garcia, George Syrimis, Marbella Vidals - https://github.com/jgarcia162/Fin
 Hans, John - https://github.com/lighterletter/SkyLeap
 Team Names Happy Juggles (Hoshiko, Janneisy, Joshelyn) - https://github.com/hoshikoo/Happy_Juggles
 Abass, Ray, Tasha - https://github.com/rayacevedo45/ART
+Feedsters (Jorge, Allison, Anna) - https://github.com/jorgereina1986/Feedster
