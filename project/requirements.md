@@ -72,3 +72,4 @@ Rosmary, Jae, Charlyn - https://github.com/jaellysbales/now-feed
 Jose Garcia, George Syrimis, Marbella Vidals - https://github.com/jgarcia162/Final-Project
 Hans, John - https://github.com/lighterletter/SkyLeap
 Team Names Happy Juggles (Hoshiko, Janneisy, Joshelyn) - https://github.com/hoshikoo/Happy_Juggles
+Abass, Ray, Tasha - https://github.com/rayacevedo45/ART
