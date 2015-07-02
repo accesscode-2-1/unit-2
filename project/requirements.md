@@ -61,6 +61,7 @@ complete by this date at the latest.
 
 #### Submissions
 
+<<<<<<< HEAD
 Team Names - github.com/repository
 
 MAE (Madelyn, Alvin, Elvis) - https://github.com/ahhhlvin/googlecards 
@@ -70,3 +71,4 @@ Team Day Builder (Luke, Pooja) - [C4Q NOW](https://github.com/lukesterlee/DayBui
 Rosmary, Jae, Charlyn - https://github.com/jaellysbales/now-feed
 Jose Garcia, George Syrimis, Marbella Vidals - https://github.com/jgarcia162/Final-Project
 Hans, John - https://github.com/lighterletter/SkyLeap
+Team Names Happy Juggles (Hoshiko, Janneisy, Joshelyn) - https://github.com/hoshikoo/Happy_Juggles
