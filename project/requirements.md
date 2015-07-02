@@ -62,3 +62,5 @@ complete by this date at the latest.
 #### Submissions
 
 Team Names - github.com/repository
+
+NY Now (Vanice, Sarah, Anthony M.) - https://github.com/hyunj0/NYNow
